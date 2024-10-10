@@ -1,1 +1,1 @@
-New England Computer Vision Workshop @ Yale University 2024.
+New England Computer Vision Workshop @ Yale University (NECV 2024).
